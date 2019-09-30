@@ -190,9 +190,9 @@ Camera Based 2D Feature Tracking implemented using C++ as part of Mid-term proje
  	- Task : Count the number of keypoints on the preceding vehicle for all 10 images and take note of the distribution of their neighborhood size. Do this for all the detectors you have implemented.
   	- Evaluation : The number of keypoints are listed for each image. Only the keypoints on the preceeding vehicle are considered.  
 
-				
-  Detector		|Img-1|	Img-2|Img-3	|Img-4	|Img-5	|Img-6	|Img-7	|Img-8	|Img-9	|Img-10
-			----|-----|-----|-------|-------|-------|-------|-------|-------|-------|------
+	
+  Detector |Img-1|	Img-2|Img-3	|Img-4	|Img-5	|Img-6	|Img-7	|Img-8	|Img-9	|Img-10
+----|-----|-----|-------|-------|-------|-----|-------|-------|-------|------
 **SHI-Tomasi**	|125|	118|	123|	120|	120|	113|	114|	123|	111|	112
 **Harris**		|17	|	14|		18|		21|		26|		43|		18|		31|		26|		34
 **FAST**		|149|	152|	150|	155|	149|	149|	156|	150|	138|	143
